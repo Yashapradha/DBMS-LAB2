@@ -1,9 +1,9 @@
+**ORDER DATABASE**
 Consider the following schema for Order Database:
-SALESMAN (Salesman_id, Name, City, Commission) 
-CUSTOMER (Customer_id, Cust_Name, City, Grade, 
-Salesman_id)
-ORDERS (Ord_No, Purchase_Amt, Ord_Date, Customer_id, 
-Salesman_id) Write SQL queries to
+_SALESMAN (Salesman_id, Name, City, Commission) 
+CUSTOMER (Customer_id, Cust_Name, City, Grade, Salesman_id)
+ORDERS (Ord_No, Purchase_Amt, Ord_Date, Customer_id, Salesman_id)_
+Write SQL queries to
 1. Count the customers with grades above Bangalore’s average.
 2. Find the name and numbers of all salesmen who had more than one customer.
 3. List all salesmen and indicate those who have and don’t have customers in their cities
