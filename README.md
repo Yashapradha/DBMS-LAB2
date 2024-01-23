@@ -1,3 +1,8 @@
+# SQL PROGRAMMING
+___
+
+## Lab program-2
+
 **ORDER DATABASE**
 Consider the following schema for Order Database:
 _`SALESMAN` (Salesman_id, Name, City, Commission) 
